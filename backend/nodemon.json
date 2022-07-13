@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGODB_ATLAS_URL": "mongodb://localhost/test",
+        "JWT_KEY":  "your_strong_salt_secret"
+
+    }
+}
